@@ -1,0 +1,40 @@
+{
+  "name": "三軒茶屋チラシ比較くん",
+  "short_name": "チラシ比較",
+  "description": "三軒茶屋周辺のスーパーマーケットのチラシ情報を比較・分析するアプリ",
+  "start_url": "/sancha-chirashi-pwa/",
+  "scope": "/sancha-chirashi-pwa/",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#10b981",
+  "orientation": "portrait-primary",
+  "icons": [
+    {
+      "src": "/sancha-chirashi-pwa/icon-192.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/sancha-chirashi-pwa/icon-512.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "any"
+    },
+    {
+      "src": "/sancha-chirashi-pwa/icon-maskable.png",
+      "sizes": "192x192",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ],
+  "categories": ["shopping", "productivity"],
+  "screenshots": [
+    {
+      "src": "/sancha-chirashi-pwa/screenshot-1.png",
+      "sizes": "540x720",
+      "type": "image/png",
+      "form_factor": "narrow"
+    }
+  ]
+}
